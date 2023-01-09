@@ -223,7 +223,7 @@ function App() {
           <Alert {...alert} removeAlert={showAlert} list={list} />
         )}
         <h3>Shop Buddy</h3>
-        <h5>shop without forgetting😉😉😉</h5>
+        <h5>shop without forgetting😉😉</h5>
         <div className="form-control">
           <input
             type="text"
